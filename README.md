@@ -1,4 +1,3 @@
-- Você irá desenvolver um site que gere cartas misteriosas.
 # Projeto Mistery Letter
 
 ## Contexto
